@@ -1,5 +1,5 @@
 // ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
+// h
 // ============================================
 
 const CONFIG = {
@@ -69,7 +69,7 @@ const CONFIG = {
     animations: {
         floatDuration: "9s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "40px",          // How far hearts move sideways (30-70px recommended)
-        bounceSpeed: "0.1s",            // Speed of bouncing animations (0.3-0.7s recommended)
+        bounceSpeed: "1s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
@@ -79,9 +79,9 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dshd8iv5i/raw/upload/v1752450491/6dBUzqjtbnIa1TwYbyw5CM_yhdakk", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        startText: "theres no music sorry idk how to put that in.",        // Button text to start music
+        stopText: ":(( ",         // Button text to stop music
+        volume: 0.0                        // Volume level (0.0 to 1.0)
     }
 };
 
